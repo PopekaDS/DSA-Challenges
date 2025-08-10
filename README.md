@@ -223,3 +223,4 @@
 80. Remove Duplicates from Sorted Array II
 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
 231. Power of Two
+869. Reordered Power of 2
