@@ -14,7 +14,7 @@
 ### Список решенных задач
 
 | № | Название задачи | Сложность | Решение |
-| :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- |
 | 1  | 11. Container With Most Water | Medium | [Решение](https://github.com/PopekaDS/DSA-Challenges/tree/main/leetcode/medium/container-with-most-water) |
 | 2  | 1. Two Sum | Easy | [Решение](https://github.com/PopekaDS/DSA-Challenges/tree/main/leetcode/easy/two-sum) |
 | *  | 12. Integer to Roman | None | [None](https://github.com/PopekaDS) |
