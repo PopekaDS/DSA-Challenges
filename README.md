@@ -240,3 +240,4 @@
 | *  | 231. Power of Two | None | [None](https://github.com/PopekaDS) |
 | *  | 869. Reordered Power of 2 | None | [None](https://github.com/PopekaDS) |
 | *  | 2264. Largest 3-Same-Digit Number in String | None | [None](https://github.com/PopekaDS) |
+| *  | 37. Sudoku Solver | None | [None](https://github.com/PopekaDS) |
