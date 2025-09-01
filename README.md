@@ -244,3 +244,4 @@
 | *  | 3000. Maximum Area of Longest Diagonal Rectangle | None | [None](https://github.com/PopekaDS) |
 | *  | 354. Russian Doll Envelopes | None | [None](https://github.com/PopekaDS) |
 | *  | 108. Convert Sorted Array to Binary Search Tree | None | [None](https://github.com/PopekaDS) |
+| *  | 64. Minimum Path Sum | None | [None](https://github.com/PopekaDS) |
