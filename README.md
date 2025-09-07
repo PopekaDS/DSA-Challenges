@@ -246,3 +246,4 @@
 | *  | 108. Convert Sorted Array to Binary Search Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 64. Minimum Path Sum | None | [None](https://github.com/PopekaDS) |
 | *  | 3516. Find Closest Person | None | [None](https://github.com/PopekaDS) |
+| *  | 1304. Find N Unique Integers Sum up to Zero | None | [None](https://github.com/PopekaDS) |
