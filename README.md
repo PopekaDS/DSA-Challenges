@@ -247,3 +247,4 @@
 | *  | 64. Minimum Path Sum | None | [None](https://github.com/PopekaDS) |
 | *  | 3516. Find Closest Person | None | [None](https://github.com/PopekaDS) |
 | *  | 1304. Find N Unique Integers Sum up to Zero | None | [None](https://github.com/PopekaDS) |
+| *  | 1317. Convert Integer to the Sum of Two No-Zero Integers | None | [None](https://github.com/PopekaDS) |
