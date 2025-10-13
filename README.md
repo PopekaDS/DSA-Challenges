@@ -252,3 +252,4 @@
 | *  | 165. Compare Version Numbers | None | [None](https://github.com/PopekaDS) |
 | *  | 120. Triangle | None | [None](https://github.com/PopekaDS) |
 | *  | 843. Guess the Word | None | [None](https://github.com/PopekaDS) |
+| *  | 2273. Find Resultant Array After Removing Anagrams | None | [None](https://github.com/PopekaDS) |
