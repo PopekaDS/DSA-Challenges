@@ -253,3 +253,4 @@
 | *  | 120. Triangle | None | [None](https://github.com/PopekaDS) |
 | *  | 843. Guess the Word | None | [None](https://github.com/PopekaDS) |
 | *  | 2273. Find Resultant Array After Removing Anagrams | None | [None](https://github.com/PopekaDS) |
+| *  | 1047. Remove All Adjacent Duplicates In String | None | [None](https://github.com/PopekaDS) |
