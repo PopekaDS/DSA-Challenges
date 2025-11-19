@@ -256,3 +256,4 @@
 | *  | 1047. Remove All Adjacent Duplicates In String | None | [None](https://github.com/PopekaDS) |
 | *  | 3461. Check If Digits Are Equal in String After Operations I | None | [None](https://github.com/PopekaDS) |
 | *  | 168. Excel Sheet Column Title | None | [None](https://github.com/PopekaDS) |
+| *  | 2154. Keep Multiplying Found Values by Two | None | [None](https://github.com/PopekaDS) |
