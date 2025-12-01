@@ -258,3 +258,4 @@
 | *  | 168. Excel Sheet Column Title | None | [None](https://github.com/PopekaDS) |
 | *  | 2154. Keep Multiplying Found Values by Two | None | [None](https://github.com/PopekaDS) |
 | *  | 448. Find All Numbers Disappeared in an Array | None | [None](https://github.com/PopekaDS) |
+| *  | 338. Counting Bits | None | [None](https://github.com/PopekaDS) |
