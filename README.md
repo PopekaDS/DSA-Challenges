@@ -259,3 +259,4 @@
 | *  | 2154. Keep Multiplying Found Values by Two | None | [None](https://github.com/PopekaDS) |
 | *  | 448. Find All Numbers Disappeared in an Array | None | [None](https://github.com/PopekaDS) |
 | *  | 338. Counting Bits | None | [None](https://github.com/PopekaDS) |
+| *  | 141. Linked List Cycle | None | [None](https://github.com/PopekaDS) |
