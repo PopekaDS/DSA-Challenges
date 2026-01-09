@@ -263,3 +263,4 @@
 | *  | 203. Remove Linked List Elements | None | [None](https://github.com/PopekaDS) |
 | *  | 182. Duplicate Emails | None | [None](https://github.com/PopekaDS) |
 | *  | 175. Combine Two Tables | None | [None](https://github.com/PopekaDS) |
+| *  | 840. Magic Squares In Grid | None | [None](https://github.com/PopekaDS) |
