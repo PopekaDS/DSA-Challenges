@@ -265,3 +265,4 @@
 | *  | 175. Combine Two Tables | None | [None](https://github.com/PopekaDS) |
 | *  | 840. Magic Squares In Grid | None | [None](https://github.com/PopekaDS) |
 | *  | 961. N-Repeated Element in Size 2N Array | None | [None](https://github.com/PopekaDS) |
+| *  | 1161. Maximum Level Sum of a Binary Tree | None | [None](https://github.com/PopekaDS) |
