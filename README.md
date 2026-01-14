@@ -268,3 +268,4 @@
 | *  | 1161. Maximum Level Sum of a Binary Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 1115. Print FooBar Alternately | None | [None](https://github.com/PopekaDS) |
 | *  | 1114. Print in Order | None | [None](https://github.com/PopekaDS) |
+| *  | 342. Power of Four | None | [None](https://github.com/PopekaDS) |
