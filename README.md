@@ -267,3 +267,4 @@
 | *  | 961. N-Repeated Element in Size 2N Array | None | [None](https://github.com/PopekaDS) |
 | *  | 1161. Maximum Level Sum of a Binary Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 1115. Print FooBar Alternately | None | [None](https://github.com/PopekaDS) |
+| *  | 1114. Print in Order | None | [None](https://github.com/PopekaDS) |
