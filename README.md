@@ -269,3 +269,4 @@
 | *  | 1115. Print FooBar Alternately | None | [None](https://github.com/PopekaDS) |
 | *  | 1114. Print in Order | None | [None](https://github.com/PopekaDS) |
 | *  | 342. Power of Four | None | [None](https://github.com/PopekaDS) |
+| *  | 190. Reverse Bits | None | [None](https://github.com/PopekaDS) |
