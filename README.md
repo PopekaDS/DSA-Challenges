@@ -271,3 +271,4 @@
 | *  | 342. Power of Four | None | [None](https://github.com/PopekaDS) |
 | *  | 190. Reverse Bits | None | [None](https://github.com/PopekaDS) |
 | *  | 146. LRU Cache | None | [None](https://github.com/PopekaDS) |
+| *  | 191. Number of 1 Bits | None | [None](https://github.com/PopekaDS) |
