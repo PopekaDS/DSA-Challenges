@@ -275,3 +275,4 @@
 | *  | 371. Sum of Two Integers | None | [None](https://github.com/PopekaDS) |
 | *  | 680. Valid Palindrome II | None | [None](https://github.com/PopekaDS) |
 | *  | 867. Transpose Matrix | None | [None](https://github.com/PopekaDS) |
+| *  | 278. First Bad Version | None | [None](https://github.com/PopekaDS) |
