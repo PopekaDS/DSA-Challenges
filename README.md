@@ -276,3 +276,4 @@
 | *  | 680. Valid Palindrome II | None | [None](https://github.com/PopekaDS) |
 | *  | 867. Transpose Matrix | None | [None](https://github.com/PopekaDS) |
 | *  | 278. First Bad Version | None | [None](https://github.com/PopekaDS) |
+| *  | 380. Insert Delete GetRandom O(1) | None | [None](https://github.com/PopekaDS) |
