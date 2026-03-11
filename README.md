@@ -278,3 +278,4 @@
 | *  | 278. First Bad Version | None | [None](https://github.com/PopekaDS) |
 | *  | 380. Insert Delete GetRandom O(1) | None | [None](https://github.com/PopekaDS) |
 | *  | 349. Intersection of Two Arrays | None | [None](https://github.com/PopekaDS) |
+| *  | 921. Minimum Add to Make Parentheses Valid | None | [None](https://github.com/PopekaDS) |
