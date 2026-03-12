@@ -279,3 +279,4 @@
 | *  | 380. Insert Delete GetRandom O(1) | None | [None](https://github.com/PopekaDS) |
 | *  | 349. Intersection of Two Arrays | None | [None](https://github.com/PopekaDS) |
 | *  | 921. Minimum Add to Make Parentheses Valid | None | [None](https://github.com/PopekaDS) |
+| *  | 389. Find the Difference | None | [None](https://github.com/PopekaDS) |
