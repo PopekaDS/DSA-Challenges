@@ -282,3 +282,4 @@
 | *  | 389. Find the Difference | None | [None](https://github.com/PopekaDS) |
 | *  | 232. Implement Queue using Stacks | None | [None](https://github.com/PopekaDS) |
 | *  | 225. Implement Stack using Queues | None | [None](https://github.com/PopekaDS) |
+| *  | 701. Insert into a Binary Search Tree | None | [None](https://github.com/PopekaDS) |
