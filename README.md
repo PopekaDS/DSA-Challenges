@@ -283,3 +283,4 @@
 | *  | 232. Implement Queue using Stacks | None | [None](https://github.com/PopekaDS) |
 | *  | 225. Implement Stack using Queues | None | [None](https://github.com/PopekaDS) |
 | *  | 701. Insert into a Binary Search Tree | None | [None](https://github.com/PopekaDS) |
+| *  | 450. Delete Node in a BST | None | [None](https://github.com/PopekaDS) |
