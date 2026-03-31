@@ -286,3 +286,4 @@
 | *  | 450. Delete Node in a BST | None | [None](https://github.com/PopekaDS) |
 | *  | 53. Maximum Subarray | None | [None](https://github.com/PopekaDS) |
 | *  | 152. Maximum Product Subarray | None | [None](https://github.com/PopekaDS) |
+| *  | 424. Longest Repeating Character Replacement | None | [None](https://github.com/PopekaDS) |
