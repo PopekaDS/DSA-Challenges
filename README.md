@@ -288,3 +288,4 @@
 | *  | 152. Maximum Product Subarray | None | [None](https://github.com/PopekaDS) |
 | *  | 424. Longest Repeating Character Replacement | None | [None](https://github.com/PopekaDS) |
 | *  | 557. Reverse Words in a String III | None | [None](https://github.com/PopekaDS) |
+| *  | 237. Delete Node in a Linked List | None | [None](https://github.com/PopekaDS) |
