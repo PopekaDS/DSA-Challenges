@@ -290,3 +290,4 @@
 | *  | 557. Reverse Words in a String III | None | [None](https://github.com/PopekaDS) |
 | *  | 237. Delete Node in a Linked List | None | [None](https://github.com/PopekaDS) |
 | *  | 938. Range Sum of BST | None | [None](https://github.com/PopekaDS) |
+| *  | 257. Binary Tree Paths | None | [None](https://github.com/PopekaDS) |
