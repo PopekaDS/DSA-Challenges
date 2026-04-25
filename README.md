@@ -292,3 +292,4 @@
 | *  | 938. Range Sum of BST | None | [None](https://github.com/PopekaDS) |
 | *  | 257. Binary Tree Paths | None | [None](https://github.com/PopekaDS) |
 | *  | 5. Longest Palindromic Substring | None | [None](https://github.com/PopekaDS) |
+| *  | 226. Invert Binary Tree | None | [None](https://github.com/PopekaDS) |
