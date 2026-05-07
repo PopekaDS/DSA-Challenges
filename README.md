@@ -294,3 +294,4 @@
 | *  | 5. Longest Palindromic Substring | None | [None](https://github.com/PopekaDS) |
 | *  | 226. Invert Binary Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 22. Generate Parentheses | None | [None](https://github.com/PopekaDS) |
+| *  | 856. Score of Parentheses | None | [None](https://github.com/PopekaDS) |
