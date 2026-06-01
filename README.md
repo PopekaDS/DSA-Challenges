@@ -300,3 +300,4 @@
 | *  | 905. Sort Array By Parity | None | [None](https://github.com/PopekaDS) |
 | *  | 912. Sort an Array | None | [None](https://github.com/PopekaDS) |
 | *  | 75. Sort Colors | None | [None](https://github.com/PopekaDS) |
+| *  | 155. Min Stack | None | [None](https://github.com/PopekaDS) |
