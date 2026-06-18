@@ -303,3 +303,4 @@
 | *  | 155. Min Stack | None | [None](https://github.com/PopekaDS) |
 | *  | 287. Find the Duplicate Number | None | [None](https://github.com/PopekaDS) |
 | *  | 658. Find K Closest Elements | None | [None](https://github.com/PopekaDS) |
+| *  | 744. Find Smallest Letter Greater Than Target | None | [None](https://github.com/PopekaDS) |
