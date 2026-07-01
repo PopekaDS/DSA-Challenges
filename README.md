@@ -304,3 +304,4 @@
 | *  | 287. Find the Duplicate Number | None | [None](https://github.com/PopekaDS) |
 | *  | 658. Find K Closest Elements | None | [None](https://github.com/PopekaDS) |
 | *  | 744. Find Smallest Letter Greater Than Target | None | [None](https://github.com/PopekaDS) |
+| *  | 1011. Capacity To Ship Packages Within D Days | None | [None](https://github.com/PopekaDS) |
