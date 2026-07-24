@@ -305,3 +305,4 @@
 | *  | 658. Find K Closest Elements | None | [None](https://github.com/PopekaDS) |
 | *  | 744. Find Smallest Letter Greater Than Target | None | [None](https://github.com/PopekaDS) |
 | *  | 1011. Capacity To Ship Packages Within D Days | None | [None](https://github.com/PopekaDS) |
+| *  | 1143. Longest Common Subsequence | None | [None](https://github.com/PopekaDS) |
