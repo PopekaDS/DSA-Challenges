@@ -309,3 +309,4 @@
 | *  | 91. Decode Ways | None | [None](https://github.com/PopekaDS) |
 | *  | 62. Unique Paths | None | [None](https://github.com/PopekaDS) |
 | *  | 417. Pacific Atlantic Water Flow | None | [None](https://github.com/PopekaDS) |
+| *  | 128. Longest Consecutive Sequence | None | [None](https://github.com/PopekaDS) |
