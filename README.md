@@ -310,3 +310,4 @@
 | *  | 62. Unique Paths | None | [None](https://github.com/PopekaDS) |
 | *  | 417. Pacific Atlantic Water Flow | None | [None](https://github.com/PopekaDS) |
 | *  | 128. Longest Consecutive Sequence | None | [None](https://github.com/PopekaDS) |
+| *  | 435. Non-overlapping Intervals | None | [None](https://github.com/PopekaDS) |
