@@ -317,3 +317,4 @@
 | *  | 647. Palindromic Substrings | None | [None](https://github.com/PopekaDS) |
 | *  | 617. Merge Two Binary Trees | None | [None](https://github.com/PopekaDS) |
 | *  | 572. Subtree of Another Tree | None | [None](https://github.com/PopekaDS) |
+| *  | 442. Find All Duplicates in an Array | None | [None](https://github.com/PopekaDS) |
