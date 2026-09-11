@@ -319,3 +319,4 @@
 | *  | 572. Subtree of Another Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 442. Find All Duplicates in an Array | None | [None](https://github.com/PopekaDS) |
 | *  | 784. Letter Case Permutation | None | [None](https://github.com/PopekaDS) |
+| *  | 78. Subsets | None | [None](https://github.com/PopekaDS) |
