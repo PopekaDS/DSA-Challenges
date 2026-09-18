@@ -321,3 +321,4 @@
 | *  | 784. Letter Case Permutation | None | [None](https://github.com/PopekaDS) |
 | *  | 78. Subsets | None | [None](https://github.com/PopekaDS) |
 | *  | 90. Subsets II | None | [None](https://github.com/PopekaDS) |
+| *  | 47. Permutations II | None | [None](https://github.com/PopekaDS) |
