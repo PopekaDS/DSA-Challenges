@@ -323,3 +323,4 @@
 | *  | 90. Subsets II | None | [None](https://github.com/PopekaDS) |
 | *  | 47. Permutations II | None | [None](https://github.com/PopekaDS) |
 | *  | 40. Combination Sum II | None | [None](https://github.com/PopekaDS) |
+| *  | 216. Combination Sum III | None | [None](https://github.com/PopekaDS) |
