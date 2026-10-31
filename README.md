@@ -329,3 +329,4 @@
 | *  | 107. Binary Tree Level Order Traversal II | None | [None](https://github.com/PopekaDS) |
 | *  | 662. Maximum Width of Binary Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 8. String to Integer (atoi) | None | [None](https://github.com/PopekaDS) |
+| *  | 654. Maximum Binary Tree | None | [None](https://github.com/PopekaDS) |
