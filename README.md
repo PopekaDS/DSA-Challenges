@@ -332,3 +332,4 @@
 | *  | 654. Maximum Binary Tree | None | [None](https://github.com/PopekaDS) |
 | *  | 295. Find Median from Data Stream | None | [None](https://github.com/PopekaDS) |
 | *  | 713. Subarray Product Less Than K | None | [None](https://github.com/PopekaDS) |
+| *  | 673. Number of Longest Increasing Subsequence | None | [None](https://github.com/PopekaDS) |
