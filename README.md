@@ -334,3 +334,4 @@
 | *  | 713. Subarray Product Less Than K | None | [None](https://github.com/PopekaDS) |
 | *  | 673. Number of Longest Increasing Subsequence | None | [None](https://github.com/PopekaDS) |
 | *  | 41. First Missing Positive | None | [None](https://github.com/PopekaDS) |
+| *  | 230. Kth Smallest Element in a BST | None | [None](https://github.com/PopekaDS) |
